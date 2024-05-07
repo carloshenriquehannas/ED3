@@ -1,4 +1,4 @@
-# ED3
+# EDIII
 Trabalhos práticos de Estruturas de Dados III
 
 ## Trabalho 1
